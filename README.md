@@ -1,6 +1,6 @@
 # BMAD Method™ - Universal AI Agent Framework
 
-> **B**usiness **M**ethod for **A**I-**D**riven Development
+> **B**reakthrough **M**ethod for **A**gile **A**I-**D**riven Development
 
 Transform your development workflow with intelligent AI agents that think, plan, and execute like a seasoned team of experts.
 
@@ -124,6 +124,30 @@ graph TB
 | [Expansion Packs](docs/expansion-packs.md) | Available packs and how to use them |
 | [API Reference](docs/api-reference.md) | Detailed API documentation |
 | [Troubleshooting](docs/troubleshooting.md) | Common issues and solutions |
+
+---
+
+## 🔗 BMAD Ecosystem & Related Projects
+
+### Official Repositories
+- **[BMAD Method Core](https://github.com/cdwbrad/bmad-method)** - Main framework and core agents
+- **[BMAD Method Experiments](https://github.com/bookmark/BMAD-METHOD-EXP)** - Experimental features and community contributions
+
+### Expansion Packs & Extensions
+- **[Whiteport Sketch-to-Code](https://github.com/whiteport-collective/whiteport-sketch-to-code-bmad-expansion)** - Transform design sketches into functional code using BMAD agents
+- **Creative Writing Pack** - Story creation, character development, and narrative design tools
+- **Business Strategy Pack** - Market analysis, competitive research, and strategic planning agents
+- **Wellness & Coaching Pack** - Health coaching, habit formation, and mindfulness practices
+
+### Community Projects
+- **Templates & Workflows** - Ready-to-use project templates for different domains
+- **Custom Agents** - Community-built specialized agents for specific use cases
+- **Integration Libraries** - Connect BMAD with popular tools and platforms
+
+### Learning Resources
+- **Documentation Hub** - Complete guides, tutorials, and API references
+- **Video Tutorials** - Step-by-step walkthroughs and case studies
+- **Community Showcase** - Real-world projects and success stories
 
 ---
 
